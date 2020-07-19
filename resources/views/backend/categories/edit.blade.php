@@ -1,11 +1,11 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech Dashboard | Edit category')
+@section('title', 'LEEROSPORTS Dashboard | Edit category')
 
 @section('content')
 
 
-      
+
 
       <!-- Content Header (Page header) -->
       <section class="content-header">
@@ -26,7 +26,7 @@
             </div>
           </div><!-- /.container-fluid -->
         </section>
-        
+
 
       <!-- Main content -->
       <section class="content">
@@ -47,7 +47,7 @@
 
               <div class="row d-flex justify-content-between">
                 @include('backend.categories.form')
-              </div> 
+              </div>
 
             {!! Form::close() !!}
           </div>

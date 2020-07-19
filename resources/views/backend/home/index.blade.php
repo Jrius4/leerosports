@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech Dashboard  | Dashboar')
+@section('title', 'LEEROSPORTS Dashboard  | Dashboar')
 
 @section('content')
 
@@ -27,8 +27,8 @@
               <div class="card">
                 <!-- /.box-header -->
                 <div class="card-body text-center">
-                      <h3>Welcome to Ndebitech Dashboard</h3>
-                      <p class="lead text-muted">Hallo {{ Auth::user()->name }}, Welcome to Ndebitech Dashboard</p>
+                      <h3>Welcome to LEEROSPORTS Dashboard</h3>
+                      <p class="lead text-muted">Hallo {{ Auth::user()->name }}, Welcome to LEEROSPORTS Dashboard</p>
 
                       <h4>Get started</h4>
                       <p><a href="{{ route('backend.blog.create') }}" class="btn btn-primary">Manage your blog post</a> </p>

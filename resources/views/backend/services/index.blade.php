@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech Dashboard | Services index')
+@section('title', 'LEEROSPORTS Dashboard | Services index')
 
 @section('content')
 
@@ -20,7 +20,7 @@
           </div>
         </div><!-- /.container-fluid -->
       </section>
-  
+
 
       <!-- Main content -->
       <section class="content">
@@ -100,8 +100,8 @@
         <!-- /.row -->
       </section>
       <!-- /.content -->
-  
-  
+
+
 
 
 @endsection

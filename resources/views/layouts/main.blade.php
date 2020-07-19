@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MyBlog | My Awesome Blog</title>
+    <title>LEEROSPORTS | My Awesome Blog</title>
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
@@ -18,7 +18,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class=""> <i class="fa fa-bars" aria-hidden="true"></i> </span>
             </button>
-          
+
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
@@ -54,22 +54,22 @@
           </nav>
 
       {{-- navigation bar --}}
-        
+
     </header>
 
- 
 
- 
+
+
             @yield('content')
 
 
-   
+
 
     <footer>
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <p class="copyright">&copy; 2019 NDEBITECH</p>
+                    <p class="copyright">&copy; 2019 LEEROSPORTS</p>
                 </div>
                 <div class="col-md-4">
                     <nav>

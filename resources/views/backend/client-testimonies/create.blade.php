@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech | Add new Testimony')
+@section('title', 'LEEROSPORTS | Add new Testimony')
 
 @section('content')
 
@@ -42,11 +42,11 @@
                     'files'  => TRUE,
                     'id' => 'post-form'
                 ]) !!}
-                
+
                 <div class="row d-flex justify-content-between">
                   @include('backend.client-testimonies.form')
                 </div>
-                
+
                 {!! Form::close() !!}
               </div>
             </div>

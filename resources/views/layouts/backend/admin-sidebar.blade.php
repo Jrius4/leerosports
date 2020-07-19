@@ -5,9 +5,9 @@
         <a href="{{url('/')}}" class="brand-link" target="_blanck">
           <img width="50" width="50" src="{{asset('img/logos/ndebi-tech-favi-blue.png')}}" alt="ndebitech Logo" class="brand-image img-circle elevation-3"
                style="opacity: .8">
-          <span class="brand-text font-weight-light">Ndebitech</span>
+          <span class="brand-text font-weight-light">LEEROSPORTS</span>
         </a>
-    
+
         <!-- Sidebar -->
         <div class="sidebar">
           <!-- Sidebar user panel (optional) -->
@@ -19,7 +19,7 @@
               <a href="#" class="d-block">{{ Auth::user()->name }}</a>
             </div>
           </div>
-    
+
           <!-- Sidebar Menu -->
           <nav class="mt-2">
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
@@ -43,7 +43,7 @@
                   </li>
                 </ul>
               </li>
-              
+
 
               @if (check_user_permissions(request(), "Users@index"))
                 <li class="nav-item">
@@ -54,7 +54,7 @@
                 </li>
               @endif
 
-              
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -84,12 +84,12 @@
                     </a>
                   </li>
                   @endif
-                  
-                  
+
+
                 </ul>
               </li>
 
-               
+
               <li class="nav-item has-treeview">
                   <a href="#" class="nav-link">
                     <i class="nav-icon fas fa-th"></i>
@@ -111,20 +111,20 @@
                         <p>Add New Service</p>
                       </a>
                     </li>
-                   
+
                     <li class="nav-item">
                       <a href="{{route('backend.service-categories.index')}}" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Service Categories</p>
                       </a>
                     </li>
-                   
-                    
-                    
+
+
+
                   </ul>
                 </li>
 
-                      
+
                 <li class="nav-item has-treeview">
                   <a href="#" class="nav-link">
                     <i class="nav-icon fas fa-th"></i>
@@ -143,7 +143,7 @@
                   </ul>
                 </li>
 
-                   
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -165,21 +165,21 @@
                       <p>Add New Project</p>
                     </a>
                   </li>
-                 
+
                   <li class="nav-item">
                     <a href="{{route('backend.project-categories.index')}}" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Project Categories</p>
                     </a>
                   </li>
-                 
-                  
-                  
+
+
+
                 </ul>
               </li>
 
 
-                 
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -201,22 +201,22 @@
                       <p>Add New Career</p>
                     </a>
                   </li>
-                 
+
                   <li class="nav-item">
                     <a href="{{route('backend.career-categories.index')}}" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
                       <p>Career Categories</p>
                     </a>
                   </li>
-                 
-                  
-                  
+
+
+
                 </ul>
               </li>
 
 
 
-                 
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -238,16 +238,16 @@
                       <p>Add New Client Testimony</p>
                     </a>
                   </li>
-                 
-                  
+
+
                 </ul>
               </li>
 
 
 
-  
 
-                 
+
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -269,17 +269,17 @@
                       <p>Add New Field</p>
                     </a>
                   </li>
-                 
-                  
-                  
+
+
+
                 </ul>
               </li>
 
 
 
-  
 
-                 
+
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -301,18 +301,18 @@
                       <p>Add New Request</p>
                     </a>
                   </li>
-                 
-                 
-                  
-                  
+
+
+
+
                 </ul>
               </li>
 
 
 
-  
 
-                 
+
+
               <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-th"></i>
@@ -334,17 +334,17 @@
                       <p>Add New Client</p>
                     </a>
                   </li>
-                 
-                  
-                  
+
+
+
                 </ul>
               </li>
 
 
 
-  
 
-  
+
+
 
             </ul>
           </nav>
@@ -352,5 +352,4 @@
         </div>
         <!-- /.sidebar -->
       </aside>
-    
-    
+

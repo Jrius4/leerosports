@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ndebitech Dashboard</title>
+    <title>LEEROSPORTS Dashboard</title>
 
     <link rel="stylesheet" href="{{asset('vendor/plugins/fontawesome-free/css/all.min.css')}}">
     <!-- Ionicons -->
@@ -45,18 +45,18 @@
                 @yield('content')
               </div>
             </div>
-            
+
 
 
 
         <footer class="main-footer">
-            <strong>Copyright &copy; {{date('Y')}} <a href="/">ndebitech</a>.</strong>
+            <strong>Copyright &copy; {{date('Y')}} <a href="/">LEEROSPORTS</a>.</strong>
             All rights reserved.
             <div class="float-right d-none d-sm-inline-block">
                 <b>designed by</b> kazibwejuliusjunior@gmail.com
             </div>
         </footer>
-    
+
     </div>
 
 <!-- jQuery -->

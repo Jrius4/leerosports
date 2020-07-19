@@ -14,7 +14,7 @@
               {{-- <!-- Navbar Brand--> --}}
               <a href="{{url('/')}}" class="navbar-brand">
 
-                <img class="logo-navbar" src="{{asset('/img/logos/Group 2.png')}}" alt="logo">
+                <img  style="width: 12rem;height:4rem" class="logo-navbar" src="{{asset('/img/logos/Group 2.png')}}" alt="logo">
 
 
             </a>

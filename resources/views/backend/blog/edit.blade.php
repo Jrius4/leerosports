@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech | Edit Post')
+@section('title', 'LEEROSPORTS | Edit Post')
 
 @section('content')
 
@@ -22,8 +22,8 @@
                 </div>
               </div><!-- /.container-fluid -->
             </section>
-  
-  
+
+
 
 
       <!-- Main content -->
@@ -45,8 +45,8 @@
 
                 <div class="row d-flex justify-content-between">
                   @include('backend.blog.form')
-                </div>  
-  
+                </div>
+
             {!! Form::close() !!}
           </div>
         </div>

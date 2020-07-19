@@ -43,7 +43,8 @@
                                 </ul>
                             </div>
 
-                            {!! $post->body_html !!}
+                            {{-- {!! $post->body_html !!} --}}
+                            {!!$post->body!!}
                         </div>
                     </div>
                 </article>

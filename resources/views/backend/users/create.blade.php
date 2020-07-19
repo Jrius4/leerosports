@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech Dashboard | Add new user')
+@section('title', 'LEEROSPORTS Dashboard | Add new user')
 
 @section('content')
 

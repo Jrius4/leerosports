@@ -56,7 +56,7 @@
                     <strong>Why don't you drop us your resume or portfolio? <br>
                         We always say Hi to great people
                     </strong><br>
-                    <span class="badge badge-primary p-2">info@ndebitech.com</span>
+                    <span class="badge badge-primary p-2">info@leerosports.com</span>
                 </p>
             </div>
         </div>

@@ -120,7 +120,7 @@
 
 
                                             <h4><a style="text-decoration:none" href="{{ route('blog.show', $post->slug) }}">{!!Str::words($post->title,5)!!}</a></h4>
-                                            <p class="intro">{!!Str::words($post->excerpt_html,5)!!}</p>
+                                            <p class="intro">{!!Str::words($post->excerpt,5)!!}</p>
                                             <p class="read-more"><a style="text-decoration:none" href="{{ route('blog.show', $post->slug) }}" class="btn btn-unique-outline btn-md btn-sm">Continue reading</a></p>
                                             </div>
                                         </div>

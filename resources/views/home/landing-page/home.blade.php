@@ -1,7 +1,7 @@
 
     <div class="home-page" style="margin-top:-20px;">
         <!-- Hero Section -->
-        <section style="padding-top:8px !important" class="hero2 d-flex flex-row align-items-center">
+        <section style="padding-top:8px !important;" class="hero2 d-flex flex-row align-items-center">
           <div class="container">
             <div data-slider-id="1" class="owl-carousel hero-1-slider">
               <!-- Slide-->
@@ -20,7 +20,7 @@
 
 
                   </div>
-                <div class="col-md-6 product"><img src="{{asset('/img/logos/ndebi-favi.png')}}" alt="lens" class="img-fluid image-header d-none d-md-block"></div>
+                {{-- <div class="col-md-6 product"><img src="{{asset('/img/logos/ndebi-favi.png')}}" alt="lens" class="img-fluid image-header d-none d-md-block"></div> --}}
                 </div>
               </div>
               <!-- Slide END-->

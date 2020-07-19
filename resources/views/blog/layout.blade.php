@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="{{asset('/vendor/plugins/bootstrap-slider/css/bootstrap-slider.min.css')}}">
 {{-- <link href="https://fonts.googleapis.com/css?family=Maven+Pro&display=swap" rel="stylesheet"> --}}
 <link rel="stylesheet" href="{{asset('/assets/webfonts/maven-pro/style.css')}}">
-    <title>Ndebi tech</title>
+    <title>LEEROSPORTS</title>
 </head>
 <body class="">
 

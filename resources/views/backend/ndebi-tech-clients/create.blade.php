@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech | Add new Client')
+@section('title', 'LEEROSPORTS | Add new Client')
 
 @section('content')
 
@@ -42,11 +42,11 @@
                     'files'  => TRUE,
                     'id' => 'post-form'
                 ]) !!}
-                
+
                 <div class="row d-flex justify-content-between">
                   @include('backend.ndebi-tech-clients.form')
                 </div>
-                
+
                 {!! Form::close() !!}
               </div>
             </div>

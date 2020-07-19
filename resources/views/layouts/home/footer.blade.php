@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-6">
                     <h3>
-                        <img class="img-fluid bg-transparent" src="{{asset('/img/logos/Group 2@3x.png')}}"/>
+                        <img  style="width: 12rem;height:4rem" class="img-fluid bg-transparent" src="{{asset('/img/logos/Group 2.png')}}"/>
                     </h3>
 
                     <div>
@@ -45,6 +45,7 @@
                             <li> <a href="#">Support</a></li>
                             <li> <a href="#">FAQ's</a></li>
                             <li> <a href="#">Press</a></li>
+                            <li> <a href="{{url('/login')}}" target="_blanck">Login</a></li>
                         </ul>
                     </div>
 

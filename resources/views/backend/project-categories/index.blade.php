@@ -1,11 +1,11 @@
 @extends('layouts.backend.main')
 
-@section('title', 'Ndebitech | Project Categories')
+@section('title', 'LEEROSPORTS | Project Categories')
 
 @section('content')
 
       <!-- Content Header (Page header) -->
-     
+
       <section class="content-header">
           <div class="container-fluid">
             <div class="row mb-2">
@@ -81,7 +81,7 @@
         <!-- ./row -->
       </section>
       <!-- /.content -->
- 
+
 
 @endsection
 
