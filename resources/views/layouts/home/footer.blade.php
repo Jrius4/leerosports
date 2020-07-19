@@ -65,7 +65,7 @@
                     <ul class="list-inline">
                         <li class="list-inline-item">Terms</li>
                         <li class="list-inline-item">Privacy</li>
-                        <li class="list-inline-item">info@ndebitech.com</li>
+                        <li class="list-inline-item">info@leerosports.com</li>
                         <li class="list-inline-item"></li>
                     </ul>
                 </div>
